@@ -2,4 +2,4 @@
 
 ## Designing the Google Home Page
 
-  ![googlehomepage](https://github.com/yasin-altunisik/FrontendWebDevelopment/blob/master/cssCases/case2/GOOGLE.png)
+  ![googlehomepage](https://github.com/yasin-altunisik/FrontendWebDevelopment/blob/master/cssCases/case3/webPage.png)
